@@ -1,1 +1,1 @@
-# Quản lý sinh viên
+# Phần mềm Quản lý sinh viên
